@@ -2,7 +2,7 @@
 [![Puppet Forge](https://img.shields.io/puppetforge/v/puppetlabs/helm.svg)](https://forge.puppetlabs.com/puppetlabs/helm)
 [![Puppet Forge Downloads](http://img.shields.io/puppetforge/dt/puppetlabs/helm.svg)](https://forge.puppetlabs.com/puppetlabs/helm)
 
-# Helm
+# Helm Testing
 
 #### Table of Contents
 
